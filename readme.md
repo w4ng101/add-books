@@ -80,20 +80,21 @@ The Laravel framework is open-source software licensed under the [MIT license](h
 - mysql
 
 ## Step 1
--run composer install
--run npm install
+- run composer install
+- run npm install
 
 ## Step 2
 - create .env files
 
 ## Step 3
 - **[Open two terminal for npm and artisan]**
+
 - **[first terminal]**
--run php artisan migrate
--run php artisan serve
+- **[run php artisan migrate]**
+- **[run php artisan serve]**
 
 - **[second terminal]**
--run npm run watch
+- **[run npm run watch]**
 
 ## step 4
 
